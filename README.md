@@ -5,12 +5,11 @@
 <b><p>💡    I'm learning how to create cool projects.</p></b>
 <a href="https://github.com/S1mvolxD">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=S1mvolxD&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
-</a>
 <a href="https://github.com/S1mvolxD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1mvolxD&layout=compact&theme=dark&hide_border=true" />
 </a>
 
 ### 📊 My GitHub stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-ник&layout=compact&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=S1mvolxD&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1mvolxD&layout=compact&theme=radical)  
 </div>
