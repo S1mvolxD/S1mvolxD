@@ -5,7 +5,7 @@
 <b><p>💡    I'm learning how to create cool projects.</p></b>
 
 ### 🛠 My technology stack:
-<img src="https://skillicons.dev/icons?i=js,discord,py,aoi.js&perline=5">
+<img src="https://skillicons.dev/icons?i=js,discord,py,discord.js&perline=5">
 
 ### 📊 My GitHub stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=S1mvolxD&show_icons=true&theme=radical)  
