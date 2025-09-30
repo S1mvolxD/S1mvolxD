@@ -10,4 +10,6 @@
 ### 📊 My GitHub stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=S1mvolxD&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1mvolxD&layout=compact&theme=radical)  
+
+<img src="https://lanyard.cnrad.dev/api/1009314804525178920?showDisplayName=true&animated=true&hideProfile=false&theme=dark&ignoreAppId=&idleMessage=beep%20boop%20are%20you%20a%20robot%3F">
 </div>
