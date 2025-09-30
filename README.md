@@ -10,6 +10,6 @@
 ### 📊 My GitHub stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=S1mvolxD&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1mvolxD&layout=compact&theme=radical)  
+</div>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/625333386978000917)](https://discord.com/users/625333386978000917)
-</div>
