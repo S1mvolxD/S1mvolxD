@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=Иван%20Иванов&fontSize=50&fontColor=FFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=SimvolfontSize=50&fontColor=FFF&animation=fadeIn)
 
 ### 👨‍💻 Обо мне
 Я backend-разработчик с фокусом на Python и экосистеме данных. Увлекаюсь созданием масштабируемых и эффективных решений.
