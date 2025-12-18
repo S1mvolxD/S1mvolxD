@@ -10,5 +10,4 @@
 ### 📊 My GitHub stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=S1mvolxD&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1mvolxD&layout=compact&theme=radical)
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Добро%20пожаловать!&fontSize=50&fontAlignY=35&animation=fadeIn)
 </div>
