@@ -1,19 +1,56 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=Simvol&fontSize=50&fontColor=FFF&animation=fadeIn)
+<div align="center">
 
-### 👨‍💻 Обо мне
-Я backend-разработчик с фокусом на Python и экосистеме данных. Увлекаюсь созданием масштабируемых и эффективных решений.
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=36&duration=4000&color=4493F8&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Simvol;Python+%7C+JS+%7C+PowerShell;Automation+Enthusiast" alt="Typing SVG" />
 
-### 🚀 Технологии
-**Языки:** Python, SQL, JavaScript  
-**Фреймворки:** FastAPI, Django, React  
-**Базы данных:** PostgreSQL, Redis, MongoDB  
-**Инфраструктура:** Docker, Git, GitHub Actions, AWS
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=S1mvolxD&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanov-io&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-### 📫 Связь
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ivanov_io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ivanovio)
+## 🚀 About Me
+A short, punchy line about what you do. For example: "I build scripts and tools to automate everything, from cloud infrastructure to daily workflows."
+
+- 🔭 **Currently Working On:** [A brief description of your current project]
+- 🌱 **Currently Learning:** [e.g., Advanced PowerShell modules, a JS framework like React, or Python for data analysis]
+- 💬 **Ask me about:** Scripting, task automation, or combining Python and PowerShell.
+- ⚡ **Fun fact:** [Something personal or quirky]
 
 ---
-⭐️ *Сгенерировано с любовью к Open Source*
+
+## 🛠️ Tech Stack & Tools
+This is where you visually showcase your skills. Use badges from the table below[citation:4][citation:7].
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <br>
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+Dynamic stats cards that update automatically[citation:3][citation:5][citation:8].
+
+<div align="center">
+  
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=S1mvolxD&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1mvolxD&layout=compact&theme=github_dark&hide_border=true&hide=html,css" alt="Top Languages" />
+</a>
+
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/S1mvolxD/S1mvolxD/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
