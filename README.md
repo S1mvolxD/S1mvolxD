@@ -1,13 +1,19 @@
-<div align="center">
-<b><p>👋    Hey there, I'm Simvol! Welcome to my GitHub playground,<br/>where I bring ideas to life through codes.</p><b>
-<b><p>📚    Study.</p><b>
-<b><p>🚀    Novice Developer.</p></b>
-<b><p>💡    I'm learning how to create cool projects.</p></b>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=200&section=header&text=Иван%20Иванов&fontSize=50&fontColor=FFF&animation=fadeIn)
 
-### 🛠 My technology stack:
-<img src="https://skillicons.dev/icons?i=js,discord,py,powershell&perline=5">
+### 👨‍💻 Обо мне
+Я backend-разработчик с фокусом на Python и экосистеме данных. Увлекаюсь созданием масштабируемых и эффективных решений.
 
-### 📊 My GitHub stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=S1mvolxD&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1mvolxD&layout=compact&theme=radical)
-</div>
+### 🚀 Технологии
+**Языки:** Python, SQL, JavaScript  
+**Фреймворки:** FastAPI, Django, React  
+**Базы данных:** PostgreSQL, Redis, MongoDB  
+**Инфраструктура:** Docker, Git, GitHub Actions, AWS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanov-io&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Связь
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ivanov_io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ivanovio)
+
+---
+⭐️ *Сгенерировано с любовью к Open Source*
