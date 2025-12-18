@@ -48,9 +48,6 @@ Dynamic stats cards that update automatically[citation:3][citation:5][citation:8
   <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1mvolxD&layout=compact&theme=github_dark&hide_border=true&hide=html,css" alt="Top Languages" />
 </a>
 
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/S1mvolxD/S1mvolxD/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
 </div>
 
 ---
