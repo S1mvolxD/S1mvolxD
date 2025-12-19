@@ -19,7 +19,7 @@ A short, punchy line about what you do. For example: "I build scripts and tools 
 ---
 
 ## 🛠️ Tech Stack & Tools
-This is where you visually showcase your skills. Use badges from the table below[citation:4][citation:7].
+This is where you visually showcase your skills. Use badges from the table below.
 
 <p align="center">
   <!-- Programming Languages -->
@@ -36,7 +36,7 @@ This is where you visually showcase your skills. Use badges from the table below
 ---
 
 ## 📊 GitHub Stats & Activity
-Dynamic stats cards that update automatically[citation:3][citation:5][citation:8].
+Dynamic stats cards that update automatically.
 
 <div align="center">
   
